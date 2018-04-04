@@ -35,3 +35,4 @@ Export-Package: net.schmizz.concurrent,
  net.schmizz.sshj.userauth.password,
  net.schmizz.sshj.xfer,
  net.schmizz.sshj.xfer.scp
+Require-Bundle: org.jkiss.bundle.bouncycastle
