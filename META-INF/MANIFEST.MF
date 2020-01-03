@@ -36,3 +36,5 @@ Export-Package: net.schmizz.concurrent,
  net.schmizz.sshj.xfer.scp
 Require-Bundle: org.bouncycastle.bcpkix,
  org.bouncycastle.bcprov
+Import-Package: org.slf4j
+
